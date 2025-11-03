@@ -1,2 +1,1 @@
-This isa repository of my files submitted when participating in the ECE 4750: Foundations to Robotics Class.
-All these were tested on the Cornell VM as well as a custom VM running on ROS Noetic and Docker.
+This isa repository of my files submitted when participating in the ECE 4750: Foundations to Robotics Class. All these were tested on the Cornell VM as well as a custom VM running on ROS Noetic and Docker.
