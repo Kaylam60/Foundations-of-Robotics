@@ -1,0 +1,12 @@
+---
+:id: 200332096
+:submitters:
+- :name: Kofi Ohene Adu
+  :email: kao65@cornell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-07 01:24:26.361907000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-06 18:24:26.361907000 Z
+:status: processed
+:score: 120.0
